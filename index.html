@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpeakUp - A text to speech converter.</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="hero">
+        <h1 id="head">Speak <span>Up</span></h1>
+        <h1>Text to Speech <span>Converter</span></h1>
+        <textarea placeholder="Write anything here..."></textarea>
+        <div class="row">
+            <select></select>
+            <button id="play"><img src="images/play.png">Listen</button>
+        </div>
+
+        <div class="row3">
+            <select id="speed">
+                <option value="0.5">Very Slow</option>
+                <option value="0.75">Slow</option>
+                <option value="1" selected>Normal</option>
+                <option value="1.25">Fast</option>
+                <option value="1.5">Very Fast</option>
+            </select>
+        </div>
+        <div class="row2">
+            <button id="cancel">Cancel</button>
+            <button id="pause">Pause</button>
+            <button id="resume">Resume</button>
+            <button id="clear">Clear</button>
+        </div>        
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
