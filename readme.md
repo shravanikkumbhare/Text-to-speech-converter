@@ -22,8 +22,8 @@ Welcome to SpeakUp, a delightful Text to Speech Converter built with HTML, CSS, 
 Simply open the index.html file in your web browser to start using SpeakUp.
 
 ## Demo
-
 ![image](./images/text-speech-converter.png)
+
 
 ## Supported Browsers
 
