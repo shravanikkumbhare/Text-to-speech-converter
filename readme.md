@@ -11,7 +11,7 @@ Welcome to SpeakUp, a delightful Text to Speech Converter built with HTML, CSS, 
 - 🔊 Pause, resume, and clear text with ease.
 - 🎨 Beautifully designed user interface for a seamless experience.
 
-## Usage
+## Usage 
 
 1. Enter the text you want to convert to speech.
 2. Select your preferred accent and country.
