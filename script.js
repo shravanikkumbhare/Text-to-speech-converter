@@ -4,7 +4,7 @@ let voiceSelect = document.querySelector("select");
 let playButton = document.getElementById("play");
 let cancelButton = document.getElementById("cancel");
 let pauseButton = document.getElementById("pause");
-let resumeButton = document.getElementById("resume");
+let resumeButton = document.getElementById("resume"); 
 let clearButton = document.getElementById("clear");
 let speedSelect = document.getElementById("speed");
 
