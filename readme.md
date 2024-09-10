@@ -8,7 +8,7 @@ Welcome to SpeakUp, a delightful Text to Speech Converter built with HTML, CSS, 
 ## Features
 
 - 🌐 Listen in various accents from around the world.
-- 🔊 Pause, resume, and clear text with ease.
+- 🔊 Pause, resume, and clear text with ease. 
 - 🎨 Beautifully designed user interface for a seamless experience.
 
 ## Usage 
