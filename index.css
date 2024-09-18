@@ -6,7 +6,7 @@
 }
 
 .hero{
-    width : 100%;
+    width : 100%; 
     min-height: 100vh;
     background: linear-gradient(45deg, #010758, #490d61);
     display: flex;
